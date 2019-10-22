@@ -1,0 +1,7 @@
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\bin\Debug\BigIntegerImplementation.exe.config
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\bin\Debug\BigIntegerImplementation.exe
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\bin\Debug\BigIntegerImplementation.pdb
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\obj\Debug\BigIntegerImplementation.csprojAssemblyReference.cache
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\obj\Debug\BigIntegerImplementation.csproj.CoreCompileInputs.cache
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\obj\Debug\BigIntegerImplementation.exe
+C:\Alex\C#\BigIntegerImplementation\BigIntegerImplementation\obj\Debug\BigIntegerImplementation.pdb
